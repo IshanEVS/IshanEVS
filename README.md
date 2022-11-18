@@ -57,7 +57,7 @@ Hi friends ! I am Ishan Tiwari a web developer <img src="https://media.giphy.com
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshanEVS&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshanEVS&theme=dark&background=000000)](https://github.com/IshanEVS)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanEVS)](https://github.com/IshanEVS)
  -->
