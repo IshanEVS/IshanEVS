@@ -61,5 +61,3 @@ Hi friends ! I am Ishan Tiwari a web developer <img src="https://media.giphy.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanEVS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanEVS)](https://github.com/anuraghazra/github-readme-stats)
-
