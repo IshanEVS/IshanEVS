@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me : :seedling:
 Hi friends ! I am Ishan Tiwari a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Laravel Developer and contributing to Backend for building web applications.
+- :telescope: I’m working as a full-stack Developer and contributing to building web applications.
 
-- :seedling: I was blessed with opportunity to work with wonderful teams on multiple backend languages.
+- :seedling: I was blessed with opportunity to work with wonderful teams on multiple languages.
 
 - :zap: I am learning and working on projects. Looking forward to working with you !!
 
